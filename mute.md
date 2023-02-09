@@ -139,3 +139,6 @@ ref. https://twitter.com/ksrg_tech/status/1622068739587067905
 * フリーランス勧誘
 * 年商○億円
 * 反出生主義
+
+## 特定URL
+* ttp://www.vidamelhoresaude.com/
