@@ -105,3 +105,7 @@
 
 ### スパム
 * [`bnc.it`系](https://github.com/KisaragiEffective/no_knightmare)
+
+### その他分類不能
+* JTC
+  * **J**apanese **T**raditional **C**ompany: 日本の伝統的な企業
