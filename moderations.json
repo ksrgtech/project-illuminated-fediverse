@@ -1,0 +1,12 @@
+{
+  "servers": [
+    {
+      "domain_hash": "a70c8fa97eb4a5b4cab4057f0a3489853d44a6ed867cb2c8",
+      "salt": "mXib0n1N1Dq+IsbWpiKv/MH+2w+DzjthlmCgCsG0ixHudiKK0ZTP4gpC2imeI2doK+TnND3Ys17C",
+      "reason": [
+        "allow_u13",
+        "allow_non_jp"
+      ]
+    }
+  ]
+}
